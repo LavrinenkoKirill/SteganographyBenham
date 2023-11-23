@@ -1,0 +1,10 @@
+C:\Users\Kirill\source\repos\steganography-master\steganography\bin\Debug\steganography.exe.config
+C:\Users\Kirill\source\repos\steganography-master\steganography\bin\Debug\steganography.exe
+C:\Users\Kirill\source\repos\steganography-master\steganography\bin\Debug\steganography.pdb
+C:\Users\Kirill\source\repos\steganography-master\steganography\obj\Debug\steganography.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\steganography-master\steganography\obj\Debug\steganography.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\source\repos\steganography-master\steganography\obj\Debug\steganography.Properties.Resources.resources
+C:\Users\Kirill\source\repos\steganography-master\steganography\obj\Debug\steganography.csproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\steganography-master\steganography\obj\Debug\steganography.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\steganography-master\steganography\obj\Debug\steganography.exe
+C:\Users\Kirill\source\repos\steganography-master\steganography\obj\Debug\steganography.pdb
